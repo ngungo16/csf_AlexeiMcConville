@@ -1,5 +1,5 @@
-# Name: ...
-# Evergreen Login: ...
+# Alexei McConville
+# mccale19
 # Computer Science Foundations
 # Programming as a Way of Life
 # Homework 1
@@ -11,17 +11,21 @@
 
 import math                     # makes the math.sqrt function available
 
-
 ###
 ### Problem 1
 ###
 
 print "Problem 1 solution follows:"
 
-Print "Solution to Problem 1"
+a = 1
+b = -5.86
+c = 8.5408
 
-# ... write your code and comments here (and remove this line)
+x = (-b + math.sqrt(b**2 - 4 * a * c)) / 2 * a
+y = (-b - math.sqrt(b**2 - 4 * a * c)) / 2 * a
 
+print x
+print y
 
 ###
 ### Problem 2
@@ -29,8 +33,13 @@ Print "Solution to Problem 1"
 
 print "Problem 2 solution follows:"
 
-# ... write your code and comments here (and remove this line)
-
+import hw1_test
+print hw1_test.a
+print hw1_test.b
+print hw1_test.c
+print hw1_test.d
+print hw1_test.e
+print hw1_test.f
 
 ###
 ### Problem 3
@@ -38,11 +47,12 @@ print "Problem 2 solution follows:"
 
 print "Problem 3 solution follows:"
 
-# ... write your code and comments here (and remove this line)
+# Note: Print out as ((a and b) or (not c) and not (d or e or f))
 
-
+print ((hw1_test.a and hw1_test.b) or (not hw1_test.c) and not (hw1_test.d or hw1_test.e or hw1_test.f))
+ 
 ###
 ### Collaboration
 ###
 
-# ... List your collaborators here, as a comment (on a line starting with "#").
+# Stephen Rancourt/ranste07. Held my hand all the way through. (Play on words.)
