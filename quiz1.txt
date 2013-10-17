@@ -1,2 +1,9 @@
 # Graded by Keir Allison-Bourne
 # allkei20
+
+import lab2.py
+import lab2.n
+x = 1
+when (x < (n+1));
+  print "Hello World"
+  x = x+1
