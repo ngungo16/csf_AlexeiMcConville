@@ -1,0 +1,54 @@
+Name: Alexei McConville
+Evergreen Login: mccale19
+Computer Science Foundations
+Programming as a Way of Life
+Fall 2013
+Homework 3 
+
+For each problem that requires a written answer, write (or copy-and-paste)
+your answers in this file.  When you are done, you should have replaced all
+the ellipses (the three dots) with your answers.
+
+At the end, you will turn in this file along with your modified
+dna_analysis.py program.
+
+
+Problem 1:
+
+(No answers in this file.)
+
+Problem 2:
+
+GCtest-small.fastq - 0.3
+
+GCsample_1 - 0.43029262962
+GCsample_2 - 0.451051333333
+GCsample_3 - 0.646864112524
+GCsample_4 - 0.347852341166
+GCsample_5 - 0.263157894737
+GCsample_6 - 0.491518518519
+
+Problem 3:
+
+The program was unable to run because the linenum was undifined. I do not know the effect of commenting out seq = ""
+The program would be unable to work because the gc_count would be undifined.
+
+Problem 4:
+
+ATtest-small.fastq - 0.35
+
+ATsample_1 - 0.284496925926
+ATsample_2 - 0.274056462963
+ATsample_3 - 0.176565578038
+ATsample_4 - 0.326071474945
+ATsample_5 - 0.361842105263
+ATsample_6 - 0.254055555556
+
+
+Collaboration:
+
+Tutor Alex help me to get started.
+
+Reflection:
+
+I finished the assignemnet a week ago, but when I went to submited on tuesday night, I found the answer key did not save. So I had to redue that portion of the assidnment.
