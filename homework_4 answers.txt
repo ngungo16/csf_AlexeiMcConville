@@ -1,0 +1,194 @@
+Name: Alexei McConville
+Evergreen Login: mccale19
+Computer Science Foundations
+Programming as a Way of Life
+Fall 2013
+Homework 4
+
+For each problem that requires a written answer, write (or copy-and-paste)
+your answers in this file.  When you are done, you should have replaced all
+the ellipses (the three dots) with your answers.
+
+At the end, you will turn in this file along with your modified
+dna_analysis.py program.
+
+
+Problem 1:
+
+(No answers in this file.)
+
+Problem 2:
+
+GCtest-small.fastq - 0.3
+
+GCsample_1 - 0.43029262962
+GCsample_2 - 0.451051333333
+GCsample_3 - 0.646864112524
+GCsample_4 - 0.347852341166
+GCsample_5 - 0.263157894737
+GCsample_6 - 0.491518518519
+
+Problem 3:
+
+The program was unable to run because the linenum was undifined. I do not know the effect of commenting out seq = ""
+The program would be unable to work because the gc_count would be undifined.
+
+Problem 4:
+
+ATtest-small.fastq - 0.35
+
+ATsample_1 - 0.284496925926
+ATsample_2 - 0.274056462963
+ATsample_3 - 0.176565578038
+ATsample_4 - 0.326071474945
+ATsample_5 - 0.361842105263
+ATsample_6 - 0.254055555556
+
+Problem 5:
+
+test-small
+A_count - 5
+T_count - 2
+G_count - 1
+C_count - 2
+
+Sample_1
+
+A_count - 7701287
+T_count - 7661547
+G_count - 5738773
+C_count - 5879128
+
+Sample_2
+
+A_count - 7467696
+T_count - 7331353
+G_count - 6103168
+C_count - 6075218
+
+Sample_3
+
+A_count - 1561973
+T_count - 1796632
+G_count - 3008039
+C_count - 3144239
+
+Sample_4
+
+A_count - 3304273
+T_count - 3204771
+G_count - 1620779
+C_count - 1851138
+
+Sample_5
+
+A_count - 27
+T_count - 28
+G_count - 11
+C_count - 9
+
+Sample_6
+
+A_count - 6867
+T_count - 6852
+G_count - 7304
+C_count - 5967
+
+Problem 6:
+
+Test-Small
+
+sum_count: 10
+total_count: 30
+seq_length: 10
+
+Sample_1
+
+sum_count: 26980735
+total_count: 81000000
+seq_length: 27000000
+
+Sample_2
+
+sum_count: 26977435
+total_count: 81000000
+seq_length: 27000000
+
+Sample_3
+
+sum_count: 9510883
+total_count: 28532784
+seq_length: 9510928
+
+Sample_4
+
+sum_count: 9980961
+total_count: 29943024
+seq_length: 9981008
+
+Sample_5
+
+sum_count: 75
+total_count: 228
+seq_length: 76
+
+Sample_6
+
+sum_count: 26990
+total_count: 81000
+seq_length: 27000
+
+With both files, my GC and AT content are inccoret.
+This is to determin if our program is correct or not.
+It is clearly stated that if there are no mistakes,
+then the program is wrong.
+
+Problem 7:
+
+Test-small
+
+AT/GC_ratio:2.33
+
+Sample_1 
+
+AT/GC_ratio: 1.32234161747
+
+Sample_2 
+
+AT/GC_ratio: 1.21518968113
+
+Sample_3 
+
+AT/GC_ratio: 0.545912424634
+
+Sample_4 
+
+AT/GC_ratio: 1.87476947174
+
+Sample_5
+
+AT/GC_ratio: 2.75
+
+Sample_6
+
+AT/GC_ratio: 1.0337578178
+
+
+Problem 8
+
+Microorganism Category
+Test-Small - low GC content
+Sample_1 - moderate GC content
+Sample_2 - moderate GC content
+Sample_3 - high GC content
+Sample_4 - low GC content
+Sample_5 - low GC content
+Sample_6 - moderate GC content
+
+Collaboration:
+
+Tutor Alex help me to get started.
+
+Reflection:
+
+I finished the assignemnet a week ago, but when I went to submited on tuesday night, I found the answer key did not save. So I had to redue that portion of the assidnment.
